@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/easy"
+        android:showAsAction="ifRoom"
+        android:title="Easy"/>
+    <item
+        android:id="@+id/medium"
+        android:showAsAction="ifRoom"
+        android:title="Medium"/>
+    <item
+        android:id="@+id/hard"
+        android:showAsAction="ifRoom"
+        android:title="Hard"/>
+     <item
+        android:id="@+id/other"
+        android:showAsAction="ifRoom"
+        android:title="Other Options?"/>
+    
+
+</menu>
